@@ -1,0 +1,15 @@
+E:\Apps\ButtonClicker\CSharpClicker\bin\Debug\net6.0\CSharpClicker.exe
+E:\Apps\ButtonClicker\CSharpClicker\bin\Debug\net6.0\CSharpClicker.deps.json
+E:\Apps\ButtonClicker\CSharpClicker\bin\Debug\net6.0\CSharpClicker.runtimeconfig.json
+E:\Apps\ButtonClicker\CSharpClicker\bin\Debug\net6.0\CSharpClicker.dll
+E:\Apps\ButtonClicker\CSharpClicker\bin\Debug\net6.0\CSharpClicker.pdb
+E:\Apps\ButtonClicker\CSharpClicker\obj\Debug\net6.0\CSharpClicker.csproj.AssemblyReference.cache
+E:\Apps\ButtonClicker\CSharpClicker\obj\Debug\net6.0\CSharpClicker.GeneratedMSBuildEditorConfig.editorconfig
+E:\Apps\ButtonClicker\CSharpClicker\obj\Debug\net6.0\CSharpClicker.AssemblyInfoInputs.cache
+E:\Apps\ButtonClicker\CSharpClicker\obj\Debug\net6.0\CSharpClicker.AssemblyInfo.cs
+E:\Apps\ButtonClicker\CSharpClicker\obj\Debug\net6.0\CSharpClicker.csproj.CoreCompileInputs.cache
+E:\Apps\ButtonClicker\CSharpClicker\obj\Debug\net6.0\CSharpClicker.dll
+E:\Apps\ButtonClicker\CSharpClicker\obj\Debug\net6.0\refint\CSharpClicker.dll
+E:\Apps\ButtonClicker\CSharpClicker\obj\Debug\net6.0\CSharpClicker.pdb
+E:\Apps\ButtonClicker\CSharpClicker\obj\Debug\net6.0\CSharpClicker.genruntimeconfig.cache
+E:\Apps\ButtonClicker\CSharpClicker\obj\Debug\net6.0\ref\CSharpClicker.dll
